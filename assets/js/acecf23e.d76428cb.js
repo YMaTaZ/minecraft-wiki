@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkminecraft_wiki=globalThis.webpackChunkminecraft_wiki||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/minecraft-wiki/blog","blogTitle":"Blog","authorsListPath":"/minecraft-wiki/blog/authors"}')}}]);

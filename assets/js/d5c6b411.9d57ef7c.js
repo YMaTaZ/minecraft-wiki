@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkminecraft_wiki=globalThis.webpackChunkminecraft_wiki||[]).push([[833],{9405:a=>{a.exports=JSON.parse('{"metadata":{"permalink":"/minecraft-wiki/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
