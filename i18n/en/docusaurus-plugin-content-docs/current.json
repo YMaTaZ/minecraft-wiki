@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.12": {
+    "message": "Minecraft 1.12",
+    "description": "The label for category 'Minecraft 1.12' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.13": {
+    "message": "Minecraft 1.13",
+    "description": "The label for category 'Minecraft 1.13' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.14": {
+    "message": "Minecraft 1.14",
+    "description": "The label for category 'Minecraft 1.14' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.15": {
+    "message": "Minecraft 1.15",
+    "description": "The label for category 'Minecraft 1.15' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.16": {
+    "message": "Minecraft 1.16",
+    "description": "The label for category 'Minecraft 1.16' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.17": {
+    "message": "Minecraft 1.17",
+    "description": "The label for category 'Minecraft 1.17' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.18": {
+    "message": "Minecraft 1.18",
+    "description": "The label for category 'Minecraft 1.18' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.19": {
+    "message": "Minecraft 1.19",
+    "description": "The label for category 'Minecraft 1.19' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.20": {
+    "message": "Minecraft 1.20",
+    "description": "The label for category 'Minecraft 1.20' in sidebar 'tutorialSidebar'"
+  },
+  "sidebar.tutorialSidebar.category.Minecraft 1.21": {
+    "message": "Minecraft 1.21",
+    "description": "The label for category 'Minecraft 1.21' in sidebar 'tutorialSidebar'"
+  }
+}

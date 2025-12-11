@@ -1,0 +1,17 @@
+---
+id: intro
+title: Minecraft Java Edition 1.19 概述
+---
+
+# Minecraft 1.19：荒野更新（The Wild Update）
+
+Minecraft Java Edition **1.19** 于 **2022 年 6 月 7 日**发布，聚焦于**沼泽生态改善**与**远古城市**探索体验。
+
+---
+
+## ✨ 主要新增内容
+
+- 🐸 新生态：红树林沼泽、远古城市（Deep Dark）
+- 🐌 新生物：守卫者、青蛙、蝌蚪、泥鳅
+- 🧱 新方块：泥土、红树木、幽匿方块
+- 🎧 全新音乐与音效

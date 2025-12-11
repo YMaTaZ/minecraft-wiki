@@ -1,0 +1,17 @@
+---
+id: intro
+title: Minecraft Java Edition 1.16 概述
+---
+
+# Minecraft 1.16：下界更新（Nether Update）
+
+Minecraft Java Edition **1.16** 于 **2020 年 6 月 23 日**发布，是一次大规模的下界重制更新。
+
+---
+
+## ✨ 主要新增内容
+
+- 🌋 全新下界生态群系（绯红森林、诡异森林、灵魂沙谷等）
+- 🐗 新生物：猪灵、疣猪兽、恶魂幼崽等
+- 🪨 下界合金（Netherite）系统
+- 🔥 新方块与建筑风格丰富多样
