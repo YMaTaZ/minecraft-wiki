@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkminecraft_wiki=globalThis.webpackChunkminecraft_wiki||[]).push([[9647],{7121:(e,r,a)=>{a.r(r),a.d(r,{default:()=>l});a(6540);var i=a(4164),s=a(7559),c=a(5500),n=a(2831),t=a(1656),u=a(4848);function l(e){return(0,u.jsx)(c.e3,{className:(0,i.A)(s.G.wrapper.docsPages),children:(0,u.jsx)(t.A,{children:(0,n.v)(e.route.routes)})})}}}]);
